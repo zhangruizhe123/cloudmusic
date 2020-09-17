@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "x-search": "/components/search/search"
+  },
+  "navigationBarTitleText": "发现",
+  "enablePullDownRefresh": true
+}
